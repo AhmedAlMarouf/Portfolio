@@ -1,5 +1,8 @@
 # Portfolio
 
+Ahmed Al Marouf is currently a Ph.D. Candidate (ABD) working towards developing applied AI methods and frameworks including, Fairness-aware & Interpretable Machine Learning and Deep Learning algorithms to address critical biomarkers in various cancer types. He is also acting as a Sessional Instructor and Graduate Assistant-Teaching at the Department of Computer Science of the University of Calgary, Canada. He is working in the Advanced Database Systems and Applications (ADSA) lab under the supervision of Prof. Reda Alhajj. He received multiple awards and scholarships, including Alberta Graduate Excellence Scholarship (AGES) - International in 2022, Faculty of Graduate Studies Open Doctoral Scholarship in 2023, University of Calgary Board of Governors Graduate Scholarship in 2024 and Eyes High International Doctoral Scholarship in 2025, etc. He got more than six years of teaching experience at the Department of Computer Science and Engineering (CSE), Daffodil International University (DIU), Dhaka, Bangladesh, where he acted as the Technical Lead of the Multidisciplinary Action Research (MARS) Lab. He published more than fifty (50) research articles in international conferences and journals including several Q1 and Q2 journals, including Nature, IEEE Transactions, IEEE Access, Cancers, Technologies, Big Data and Cognitive Computing, MethodsX, etc. His research interest lies in Health and Biomedical Informatics, Fairness-aware Machine Leaning, Explainable Artificial Intelligence, Computational Social Systems and Human-Computer Interaction.
+
+
 Find my Personal Website [here](https://sites.google.com/view/ahmedalmarouf/home)
 
 University of Calgary Profile: [Ucalgary Profile](https://profiles.ucalgary.ca/ahmed-al-marouf)
